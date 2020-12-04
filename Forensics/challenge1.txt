@@ -1,0 +1,5 @@
+An image was leaked from a babies store. the manager is so annoyed because he needs to identify the image to fire charges against the responsible employee. the key is the md5 of the image
+
+
+https://s3-eu-west-1.amazonaws.com/talentchallenges/Forensics/find+the+image.zip
+

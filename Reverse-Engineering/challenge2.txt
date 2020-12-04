@@ -1,0 +1,4 @@
+lord of the rings addict is the user of this application, can you find the creds?, the key is the md5(userpass)
+
+
+https://s3-eu-west-1.amazonaws.com/talentchallenges/Reverse/app.apk.zip
